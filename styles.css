@@ -21,4 +21,5 @@ body {
 .crop {
   width: 180px;
   height: 180px;
+  border-radius: 5%;
 }
